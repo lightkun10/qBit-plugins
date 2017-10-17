@@ -49,8 +49,8 @@ class bakabt(object):
     #
     # SET THESE VALUES!!
     #
-    username = "username"
-    password = "password"
+    username = "foobar"
+    password = "basquax"
     ###########################################################################
 
     url = 'https://bakabt.me'
